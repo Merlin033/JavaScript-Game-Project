@@ -3,6 +3,7 @@ import { InputHandler } from "./input.js";
 import { Background } from "./background.js";
 import { FlyingEnemy, ClimbingEnemy, GroundEnemy } from "./enemies.js";
 import { UI } from "./UI.js";
+// https://www.youtube.com/watch?v=GFO_txvwK_c 8:43
 
 window.addEventListener("load", () => {
 	const canvas = document.getElementById("canvas1");

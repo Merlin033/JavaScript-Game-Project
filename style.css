@@ -19,8 +19,16 @@
 #layer3,
 #layer4,
 #layer5,
+#layer6,
+#layer7,
+#layer8,
+#layer9,
+#layer10,
 #enemy_fly,
 #enemy_plant,
-#enemy_spider_big {
+#enemy_spider_big,
+#fire,
+#collisionAnimation,
+#lives {
 	display: none;
 }
